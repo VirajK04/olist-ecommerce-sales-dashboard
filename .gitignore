@@ -1,0 +1,14 @@
+# Raw data and database (too large for GitHub; see README for download link)
+data/raw/
+data/*.db
+data/*.sqlite
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets and OS junk
+kaggle.json
+.env
+.DS_Store
